@@ -1,0 +1,15 @@
+.classic {
+    background-color: rgb(241, 184, 193);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
